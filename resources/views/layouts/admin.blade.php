@@ -35,7 +35,7 @@
       <li class="nav-item">
         <a class="nav-link" data-bs-toggle="collapse" href="#icons" aria-expanded="false" aria-controls="icons">
           <i class="mdi mdi-emoticon menu-icon"></i>
-          <span class="menu-title">Icons</span>
+          <span class="menu-title">Users</span>
           <i class="menu-arrow"></i>
         </a>
         <div class="collapse" id="icons">
@@ -47,7 +47,7 @@
       <li class="nav-item">
         <a class="nav-link" data-bs-toggle="collapse" href="#auth" aria-expanded="false" aria-controls="auth">
           <i class="mdi mdi-account menu-icon"></i>
-          <span class="menu-title">User Pages</span>
+          <span class="menu-title">Home sliders</span>
           <i class="menu-arrow"></i>
         </a>
         <div class="collapse" id="auth">
@@ -63,7 +63,7 @@
       <li class="nav-item">
         <a class="nav-link" href="../../../docs/documentation.html">
           <i class="mdi mdi-file-document-box menu-icon"></i>
-          <span class="menu-title">Documentation</span>
+          <span class="menu-title">Site settings</span>
         </a>
       </li>
     </ul>
